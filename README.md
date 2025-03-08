@@ -1,29 +1,32 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## nel antonio cogollo vergara 
+**Profesión:** _Tecnico en operaciones logsticas_
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [correo@ejemplo.com](antoniocogollo58@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tuusuario](www.linkedin.com/in/nel-cogollo-992336354)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Empresa XYZ** _(2025 - manucfatura eliot)_
+- **contrato de aprendizaje** _(mancfactura eliot)_
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa ABC** _(2024 - 2025)_
+- 
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+- **bachiller** _(2014 - 2023)
+- **marcketing** _(2021)
+  
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **work basico**
+- **excel basico**
+- **Colaboración con otros para alcanzar objetivos comunes**
+- **Capacidad para priorizar tareas y cumplir plazos.**
 
 ---
 
