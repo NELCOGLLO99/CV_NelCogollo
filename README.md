@@ -6,8 +6,8 @@
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](antoniocogollo58@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](www.linkedin.com/in/nel-cogollo-992336354)
+- **Email:** (antoniocogollo58@gmail.com)
+- **LinkedIn:** (www.linkedin.com/in/nel-cogollo-992336354)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2025 - manucfatura eliot)_
