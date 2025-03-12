@@ -23,8 +23,7 @@
   
 
 ## 💡 Habilidades
-- **work basico**
-- **excel basico**
+- **herramientas de microsoft**
 - **Colaboración con otros para alcanzar objetivos comunes**
 - **Capacidad para priorizar tareas y cumplir plazos.**
 
