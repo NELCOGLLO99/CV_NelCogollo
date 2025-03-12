@@ -4,17 +4,17 @@
 nel antonio cogollo vergara 
 **Profesión:** _Tecnico en operaciones logsticas_
 
-# Soy un estudiante apasionado del programa de Integración Logística, con experiencia práctica en manipulación de alimentos e inventarios, y un fuerte enfoque en la eficiencia operativa. A lo largo de mi carrera he tenido la oportunidad de trabajar en una fábrica de bolsas, donde perfeccioné mis habilidades en el control y gestión de inventarios. Además, complementé mi formación con un curso de Marketing Digital y Servicio al Cliente, lo que me permite integrar una visión estratégica de negocio con una sólida capacidad operativa. Mi objetivo es aprovechar mis conocimientos y experiencias para contribuir de manera innovadora y eficiente a los retos logísticos y comerciales de cualquier organización.
+**Soy un estudiante apasionado del programa de Integración Logística, con experiencia práctica en manipulación de alimentos e inventarios, y un fuerte enfoque en la eficiencia operativa. A lo largo de mi carrera he tenido la oportunidad de trabajar en una fábrica de bolsas, donde perfeccioné mis habilidades en el control y gestión de inventarios. Además, complementé mi formación con un curso de Marketing Digital y Servicio al Cliente, lo que me permite integrar una visión estratégica de negocio con una sólida capacidad operativa. Mi objetivo es aprovechar mis conocimientos y experiencias para contribuir de manera innovadora y eficiente a los retos logísticos y comerciales de cualquier organización.**
 
-# Habilidades y Competencias:
+Habilidades y Competencias:
 
-# Manipulación de Alimentos: Experto en asegurar el cumplimiento de estándares de calidad y seguridad alimentaria, con enfoque en procesos que garantizan la integridad de los productos.
-# Gestión de Inventarios: Amplia experiencia en el manejo de inventarios, desde la recepción hasta la distribución, con dominio en herramientas digitales de gestión para optimizar procesos y reducir costos.
-# Logística y Distribución: Sólidos conocimientos en la coordinación eficiente de la cadena de suministro, manejo de flujos logísticos y optimización de tiempos de entrega.
-# Marketing Digital: Capacitado en estrategias innovadoras de marketing online, manejo de redes sociales, SEO, y herramientas analíticas para impulsar la presencia digital de marcas.
-# Atención al Cliente: Habilidades excepcionales en la creación de relaciones duraderas con los clientes, resolución rápida de problemas y un enfoque continuo en la mejora de la experiencia del usuario.
-# Trabajo en Equipo: Comprometido con el trabajo colaborativo, con una mentalidad orientada a resultados y una comunicación fluida con diferentes áreas y equipos.
-# Organización y Planificación: Fuerte capacidad de organización y gestión del tiempo, priorizando tareas para garantizar la eficiencia operativa en ambientes de trabajo dinámicos y desafiantes.
+**Manipulación de Alimentos: Experto en asegurar el cumplimiento de estándares de calidad y seguridad alimentaria, con enfoque en procesos que garantizan la integridad de los productos.
+Gestión de Inventarios: Amplia experiencia en el manejo de inventarios, desde la recepción hasta la distribución, con dominio en herramientas digitales de gestión para optimizar procesos y reducir costos.
+Logística y Distribución: Sólidos conocimientos en la coordinación eficiente de la cadena de suministro, manejo de flujos logísticos y optimización de tiempos de entrega.
+Marketing Digital: Capacitado en estrategias innovadoras de marketing online, manejo de redes sociales, SEO, y herramientas analíticas para impulsar la presencia digital de marcas.
+Atención al Cliente: Habilidades excepcionales en la creación de relaciones duraderas con los clientes, resolución rápida de problemas y un enfoque continuo en la mejora de la experiencia del usuario.
+Trabajo en Equipo: Comprometido con el trabajo colaborativo, con una mentalidad orientada a resultados y una comunicación fluida con diferentes áreas y equipos.
+ Organización y Planificación: Fuerte capacidad de organización y gestión del tiempo, priorizando tareas para garantizar la eficiencia operativa en ambientes de trabajo dinámicos y desafiantes.**
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
