@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-nel antonio cogollo vergara 
+# nel antonio cogollo vergara 
 **Profesión:** _Tecnico en operaciones logsticas_
 
 ## Introducción:
